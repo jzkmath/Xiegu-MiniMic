@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/jzkmath/Documents/KiCad/Xiegu MiniMic/Xiegu MiniMic.kicad_sch</source>
+    <date>Tue 15 Nov 2022 03:56:38 PM MST</date>
+    <tool>Eeschema 6.0.9-8da3e8f707~116~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Xiegu Mini Hand Mic</title>
+        <company>Jonathan Kayne, KM4CFT</company>
+        <rev>A</rev>
+        <date>2022-11-08</date>
+        <source>Xiegu MiniMic.kicad_sch</source>
+        <comment number="1" value="Based on the ICOM HM151"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>470pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey PN">478-1324-1-ND</field>
+        <field name="LCSC">C1743</field>
+        <field name="MPN">08055A471JAT2A</field>
+        <field name="Manufacturer">KYOCERA AVX</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey PN" value="478-1324-1-ND"/>
+      <property name="LCSC PN" value=""/>
+      <property name="MPN" value="08055A471JAT2A"/>
+      <property name="Manufacturer" value="KYOCERA AVX"/>
+      <property name="LCSC" value="C1743"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f43447b1-f2de-4082-abb7-005a96f76af2</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey PN">478-5034-1-ND</field>
+        <field name="LCSC">C28323</field>
+        <field name="MPN">0805YC105KAT2A</field>
+        <field name="Manufacturer">KYOCERA AVX</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey PN" value="478-5034-1-ND"/>
+      <property name="LCSC PN" value=""/>
+      <property name="MPN" value="0805YC105KAT2A"/>
+      <property name="Manufacturer" value="KYOCERA AVX"/>
+      <property name="LCSC" value="C28323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38adfbac-2a2b-474d-9ff9-903c38223ac6</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_4x5.4</footprint>
+      <fields>
+        <field name="Digikey PN">493-2173-1-ND</field>
+        <field name="LCSC">C445074</field>
+        <field name="MPN">UWT1C100MCL1GB</field>
+        <field name="Manufacturer">Nichicon</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Digikey PN" value="493-2173-1-ND"/>
+      <property name="LCSC PN" value=""/>
+      <property name="MPN" value="UWT1C100MCL1GB"/>
+      <property name="Manufacturer" value="Nichicon"/>
+      <property name="LCSC" value="C445074"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>520d2411-1c7c-46ec-a924-b9d14e9bbd45</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey PN">478-1308-1-ND</field>
+        <field name="LCSC">C1804</field>
+        <field name="MPN">08055A220JAT2A</field>
+        <field name="Manufacturer">KYOCERA AVX</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey PN" value="478-1308-1-ND"/>
+      <property name="LCSC PN" value=""/>
+      <property name="MPN" value="08055A220JAT2A"/>
+      <property name="Manufacturer" value="KYOCERA AVX"/>
+      <property name="LCSC" value="C1804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b776cb89-dad6-4fa7-95ad-2a20ac1dbad6</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey PN">478-1308-1-ND</field>
+        <field name="LCSC">C1804</field>
+        <field name="MPN">08055A220JAT2A</field>
+        <field name="Manufacturer">KYOCERA AVX</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey PN" value="478-1308-1-ND"/>
+      <property name="LCSC PN" value=""/>
+      <property name="MPN" value="08055A220JAT2A"/>
+      <property name="Manufacturer" value="KYOCERA AVX"/>
+      <property name="LCSC" value="C1804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41182fbf-c497-4862-9fc0-4379c55a369a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey PN">478-1308-1-ND</field>
+        <field name="LCSC">C1804</field>
+        <field name="MPN">08055A220JAT2A</field>
+        <field name="Manufacturer">KYOCERA AVX</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey PN" value="478-1308-1-ND"/>
+      <property name="LCSC PN" value=""/>
+      <property name="MPN" value="08055A220JAT2A"/>
+      <property name="Manufacturer" value="KYOCERA AVX"/>
+      <property name="LCSC" value="C1804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af25933c-2dda-409f-be16-1f315c3b8b89</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey PN">478-10836-1-ND</field>
+        <field name="LCSC">C28233</field>
+        <field name="MPN">08055C104KAT4A</field>
+        <field name="Manufacturer">KYOCERA AVX</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey PN" value="478-10836-1-ND"/>
+      <property name="LCSC PN" value=""/>
+      <property name="MPN" value="08055C104KAT4A"/>
+      <property name="Manufacturer" value="KYOCERA AVX"/>
+      <property name="LCSC" value="C28233"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00befdee-4f16-45db-8df2-bfca296f6109</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>4.7nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey PN">478-08055C472K4T4ACT-ND</field>
+        <field name="LCSC">C1744</field>
+        <field name="MPN">08055C472K4T4A</field>
+        <field name="Manufacturer">KYOCERA AVX</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey PN" value="478-08055C472K4T4ACT-ND"/>
+      <property name="LCSC PN" value=""/>
+      <property name="MPN" value="08055C472K4T4A"/>
+      <property name="Manufacturer" value="KYOCERA AVX"/>
+      <property name="LCSC" value="C1744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>433e5a2d-9931-46ce-a15b-4d93fbb20f96</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>4.7nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey PN">478-08055C472K4T4ACT-ND</field>
+        <field name="LCSC">C1744</field>
+        <field name="MPN">08055C472K4T4A</field>
+        <field name="Manufacturer">KYOCERA AVX</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey PN" value="478-08055C472K4T4ACT-ND"/>
+      <property name="LCSC PN" value=""/>
+      <property name="MPN" value="08055C472K4T4A"/>
+      <property name="Manufacturer" value="KYOCERA AVX"/>
+      <property name="LCSC" value="C1744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>055306e2-11ba-4485-adec-e7fc1703a9de</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey PN">478-10836-1-ND</field>
+        <field name="LCSC">C28233</field>
+        <field name="MPN">08055C104KAT4A</field>
+        <field name="Manufacturer">KYOCERA AVX</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey PN" value="478-10836-1-ND"/>
+      <property name="LCSC PN" value=""/>
+      <property name="MPN" value="08055C104KAT4A"/>
+      <property name="Manufacturer" value="KYOCERA AVX"/>
+      <property name="LCSC" value="C28233"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>120e75a9-ad79-4814-9110-bfa42e097d73</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>MMSZ5239B-7-F</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Digikey PN">MMSZ5239B-FDICT-ND</field>
+        <field name="LCSC">C459546</field>
+        <field name="MPN">MMSZ5239B-7-F</field>
+        <field name="Manufacturer">Diodes Incorporated</field>
+      </fields>
+      <libsource lib="Device" part="D_Zener_Filled" description="Zener diode, filled shape"/>
+      <property name="Digikey PN" value="MMSZ5239B-FDICT-ND"/>
+      <property name="MPN" value="MMSZ5239B-7-F"/>
+      <property name="Manufacturer" value="Diodes Incorporated"/>
+      <property name="LCSC PN" value=""/>
+      <property name="LCSC" value="C459546"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd36d0bd-2342-4896-813e-d9bff05a3525</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>MMSZ5239B-7-F</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Digikey PN">MMSZ5239B-FDICT-ND</field>
+        <field name="LCSC">C459546</field>
+        <field name="MPN">MMSZ5239B-7-F</field>
+        <field name="Manufacturer">Diodes Incorporated</field>
+      </fields>
+      <libsource lib="Device" part="D_Zener_Filled" description="Zener diode, filled shape"/>
+      <property name="Digikey PN" value="MMSZ5239B-FDICT-ND"/>
+      <property name="MPN" value="MMSZ5239B-7-F"/>
+      <property name="Manufacturer" value="Diodes Incorporated"/>
+      <property name="LCSC PN" value=""/>
+      <property name="LCSC" value="C459546"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df73e81b-fd83-4561-8640-988b716291a5</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>M2</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc96117f-696d-47b5-81f1-42e188fc7fac</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>M2</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a435b775-6b11-465c-a353-b436c5bb7319</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>M2</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8987a99-4f35-4d18-97a9-72b7e7a24e11</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>M2</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e215df67-9afe-494f-96fd-e8b3cab7779a</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>54602-908LF</value>
+      <footprint>Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal</footprint>
+      <fields>
+        <field name="Digikey PN">609-1046-ND</field>
+        <field name="LCSC">N/A</field>
+        <field name="MPN">54602-908LF</field>
+        <field name="Manufacturer">Amphenol ICC (FCI)</field>
+      </fields>
+      <libsource lib="Connector" part="8P8C" description="RJ connector, 8P8C (8 positions 8 connected), RJ31/RJ32/RJ33/RJ34/RJ35/RJ41/RJ45/RJ49/RJ61"/>
+      <property name="Digikey PN" value="609-1046-ND"/>
+      <property name="MPN" value="54602-908LF"/>
+      <property name="Manufacturer" value="Amphenol ICC (FCI)"/>
+      <property name="LCSC PN" value=""/>
+      <property name="LCSC" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d65082fb-df7b-44eb-b6f2-6910cd93e2d9</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>33uH</value>
+      <footprint>Inductor_SMD:L_1008_2520Metric</footprint>
+      <fields>
+        <field name="Digikey PN">445-16476-1-ND</field>
+        <field name="LCSC">C295130</field>
+        <field name="MPN">NLV25T-330J-EF</field>
+        <field name="Manufacturer">TDK Corporation</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Digikey PN" value="445-16476-1-ND"/>
+      <property name="LCSC PN" value=""/>
+      <property name="MPN" value="NLV25T-330J-EF"/>
+      <property name="Manufacturer" value="TDK Corporation"/>
+      <property name="LCSC" value="C295130"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>629fcac1-cd71-403e-8c9d-2b15238e014a</tstamps>
+    </comp>
+    <comp ref="MK1">
+      <value>EM6022P</value>
+      <footprint>Xiegu MiniMic:EM6022P</footprint>
+      <fields>
+        <field name="Digikey PN">433-1088-ND</field>
+        <field name="LCSC">N/A</field>
+        <field name="MPN">EM-6022P</field>
+        <field name="Manufacturer">Soberton Inc.</field>
+      </fields>
+      <libsource lib="Device" part="Microphone_Condenser" description="Condenser microphone"/>
+      <property name="Digikey PN" value="433-1088-ND"/>
+      <property name="MPN" value="EM-6022P"/>
+      <property name="Manufacturer" value="Soberton Inc."/>
+      <property name="LCSC PN" value=""/>
+      <property name="LCSC" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c2ae7e2-5919-4010-9e6d-5e004426e7f6</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey PN">A106060CT-ND</field>
+        <field name="LCSC">C2073912</field>
+        <field name="MPN">CRG0805F2K2</field>
+        <field name="Manufacturer">TE Connectivity Passive Product</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey PN" value="A106060CT-ND"/>
+      <property name="LCSC PN" value=""/>
+      <property name="MPN" value="CRG0805F2K2"/>
+      <property name="Manufacturer" value="TE Connectivity Passive Product"/>
+      <property name="LCSC" value="C2073912"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2572730-3c0c-4f7b-9392-3a9ef4f28a8e</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Digikey PN">A106060CT-ND</field>
+        <field name="LCSC">C2073912</field>
+        <field name="MPN">CRG0805F2K2</field>
+        <field name="Manufacturer">TE Connectivity Passive Product</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey PN" value="A106060CT-ND"/>
+      <property name="LCSC PN" value=""/>
+      <property name="MPN" value="CRG0805F2K2"/>
+      <property name="Manufacturer" value="TE Connectivity Passive Product"/>
+      <property name="LCSC" value="C2073912"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0aa192df-3864-4df1-b456-305918d3646b</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>1-1825027-1</value>
+      <footprint>Xiegu MiniMic:SW_1-1825027-1</footprint>
+      <fields>
+        <field name="Digikey PN">450-1658-ND</field>
+        <field name="LCSC">C266183</field>
+        <field name="MPN">1-1825027-1</field>
+        <field name="Manufacturer">TE Connectivity ALCOSWITCH Switches</field>
+      </fields>
+      <libsource lib="Xiegu MiniMic" part="1-1825027-1" description=""/>
+      <property name="Digikey PN" value="450-1658-ND"/>
+      <property name="LCSC PN" value=""/>
+      <property name="MPN" value="1-1825027-1"/>
+      <property name="Manufacturer" value="TE Connectivity ALCOSWITCH Switches"/>
+      <property name="LCSC" value="C266183"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Xiegu MiniMic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80747e95-4948-4473-9624-5c52cd8d7f5e</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="8P8C">
+      <description>RJ connector, 8P8C (8 positions 8 connected), RJ31/RJ32/RJ33/RJ34/RJ35/RJ41/RJ45/RJ49/RJ61</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>8P8C*</fp>
+        <fp>RJ31*</fp>
+        <fp>RJ32*</fp>
+        <fp>RJ33*</fp>
+        <fp>RJ34*</fp>
+        <fp>RJ35*</fp>
+        <fp>RJ41*</fp>
+        <fp>RJ45*</fp>
+        <fp>RJ49*</fp>
+        <fp>RJ61*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">8P8C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener_Filled">
+      <description>Zener diode, filled shape</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener_Filled</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Microphone_Condenser">
+      <description>Condenser microphone</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">MK</field>
+        <field name="Value">Microphone_Condenser</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-" type="passive"/>
+        <pin num="2" name="+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Xiegu MiniMic" part="1-1825027-1">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">1-1825027-1</field>
+        <field name="Footprint">SW_1-1825027-1</field>
+        <field name="EU_RoHS_Compliance">Compliant</field>
+        <field name="Comment">1-1825027-1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="S1" name="SHIELD" type="power_in"/>
+        <pin num="S2" name="SHIELD" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Xiegu MiniMic">
+      <uri>/home/jzkmath/Documents/KiCad/Xiegu MiniMic/Xiegu MiniMic.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+8V">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="7" pintype="passive"/>
+      <node ref="S1" pin="2" pintype="passive"/>
+      <node ref="S1" pin="S1" pinfunction="SHIELD" pintype="power_in"/>
+      <node ref="S1" pin="S2" pinfunction="SHIELD" pintype="power_in"/>
+    </net>
+    <net code="3" name="MIC">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J1" pin="6" pintype="passive"/>
+    </net>
+    <net code="4" name="MIC-GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="5" pintype="passive"/>
+      <node ref="MK1" pin="1" pinfunction="-" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="MK1" pin="2" pinfunction="+" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="PTT">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="J1" pin="4" pintype="passive"/>
+      <node ref="S1" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="unconnected-(J1-Pad2)">
+      <node ref="J1" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="10" name="unconnected-(J1-Pad3)">
+      <node ref="J1" pin="3" pintype="passive+no_connect"/>
+    </net>
+    <net code="11" name="unconnected-(J1-Pad8)">
+      <node ref="J1" pin="8" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

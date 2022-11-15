@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Xiegu MiniMic")(type "KiCad")(uri "${KIPRJMOD}/Xiegu MiniMic.pretty")(options "")(descr ""))
+)

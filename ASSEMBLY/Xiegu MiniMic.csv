@@ -1,0 +1,14 @@
+Comment,Designator,Footprint,LCSC
+470pF,C1,Capacitor_SMD:C_0805_2012Metric,C1743
+1uF,C2,Capacitor_SMD:C_0805_2012Metric,C28323
+10uF,C3,Capacitor_SMD:CP_Elec_4x5.4,C445074
+22pF,"C4,C5,C6",Capacitor_SMD:C_0805_2012Metric,C1804
+100nF,"C7,C10",Capacitor_SMD:C_0805_2012Metric,C28233
+4.7nF,"C8,C9",Capacitor_SMD:C_0805_2012Metric,C1744
+MMSZ5239B-7-F,"D1,D2",Diode_SMD:D_SOD-123,C459546
+M2,"H1,H2,H3,H4",MountingHole:MountingHole_2.2mm_M2_Pad,N/A
+54602-908LF,J1,Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal,N/A
+33uH,L1,Inductor_SMD:L_1008_2520Metric,C295130
+EM6022P,MK1,Xiegu MiniMic:EM6022P,N/A
+2.2k,"R1,R2",Resistor_SMD:R_0805_2012Metric,C2073912
+1-1825027-1,S1,Xiegu MiniMic:SW_1-1825027-1,C266183
