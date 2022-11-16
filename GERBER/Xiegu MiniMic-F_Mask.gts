@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,6.0.9-8da3e8f707~116~ubuntu22.04.1*
-G04 #@! TF.CreationDate,2022-11-15T15:38:03-07:00*
+G04 #@! TF.CreationDate,2022-11-15T22:26:04-07:00*
 G04 #@! TF.ProjectId,Xiegu MiniMic,58696567-7520-44d6-996e-694d69632e6b,rev?*
 G04 #@! TF.SameCoordinates,PX41672a0PY54efc64*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 6.0.9-8da3e8f707~116~ubuntu22.04.1) date 2022-11-15 15:38:03*
+G04 Created by KiCad (PCBNEW 6.0.9-8da3e8f707~116~ubuntu22.04.1) date 2022-11-15 22:26:04*
 %MOMM*%
 %LPD*%
 G01*
@@ -117,6 +117,6 @@ X24235000Y12887900D03*
 D17*
 X2540000Y22860000D03*
 D24*
-X36460000Y13650000D03*
-X36460000Y11750000D03*
+X34660000Y11750000D03*
+X34660000Y13650000D03*
 M02*
