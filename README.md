@@ -13,4 +13,8 @@ Rev. A: Initial Design
 
 Rev. B: Found that the EM6022P Microphone Element was wired backwards. Fixed it in this revision.
 
+![Mic Size Comparison](https://github.com/jzkmath/Xiegu-MiniMic/blob/master/Mic%20Size%20Comparison.jpg)
+
+![Enclosure Close up](https://github.com/jzkmath/Xiegu-MiniMic/blob/master/Enclosure%20Close%20Up.jpg)
+
 ![PCB Render](https://github.com/jzkmath/Xiegu-MiniMic/blob/master/Xiegu%20MiniMic.jpg)
